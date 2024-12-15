@@ -20,7 +20,7 @@ function App() {
       <Router>
           <div>
               <Routes>
-                  <Route exact path="/" element={<Home />} />
+                  <Route exact path="/vite" element={<Home />} />
                   <Route path="/stats-table" element={<StatsTable />} />
                   <Route path="/stats-table-new" element={<StatsTableNew />} />
                   <Route path="/stats-charts" element={<StatsChartsAg />} />
