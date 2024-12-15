@@ -1,0 +1,95 @@
+@import '../../../colors';
+
+.button {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0 20px;
+  border-radius: 30px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: normal;
+
+  white-space: nowrap;
+
+  &:focus {
+    outline: none;
+  }
+
+  &:disabled {
+    box-shadow: none;
+    cursor: default;
+    pointer-events: none;
+  }
+}
+
+.primary {
+  background-color: $button-primary-background-color;
+  color: $button-primary-color;
+  transition: background-color 0.3s, border 0.3s;
+  border: 4px solid transparent;
+
+  &:hover {
+    background-color: $button-primary-hover-background-color;
+  }
+
+  &:active {
+    box-shadow: 0 0 0 4px $button-primary-active-box-shadow-color;
+  }
+
+  &:disabled {
+    background-color: $button-primary-disabled-background-color;
+    border-color: $button-primary-disabled-border-color;
+    color: $button-primary-disabled-color;
+    opacity: $button-primary-disabled-opacity;
+  }
+}
+
+.secondary {
+  background-color: $button-secondary-background-color;
+  color: $button-secondary-color;
+  border: 1px solid $button-secondary-border-color;
+  transition: background-color 0.3s, border 0.3s;
+  box-shadow: 0 0 0 1px transparent;
+
+  &:hover {
+    background-color: $button-secondary-hover-background-color;
+  }
+
+  &:active {
+    box-shadow: 0 0 0 1px $button-secondary-active-box-shadow-color;
+    outline: none;
+  }
+
+  &:disabled {
+    background-color: $button-secondary-disabled-background-color;
+    border-color: $button-secondary-disabled-border-color;
+    color: $button-secondary-disabled-color;
+    opacity: $button-secondary-disabled-opacity;
+  }
+}
+
+.sm {
+  height: 28px;
+
+  font-size: $button-sm-font-size;
+  font-weight: $button-sm-font-weight;
+  line-height: $button-sm-line-height;
+}
+
+.md {
+  height: 36px;
+
+  font-size: $button-md-font-size;
+  font-weight: $button-md-font-weight;
+  line-height: $button-md-line-height;
+}
+
+.lg {
+  height: 40px;
+
+  font-size: $button-lg-font-size;
+  font-weight: $button-lg-font-weight;
+  line-height: $button-lg-line-height;
+}

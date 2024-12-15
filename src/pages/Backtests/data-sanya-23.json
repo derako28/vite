@@ -1,0 +1,998 @@
+[
+  {
+    "date": "01/08/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "02/08/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "02/08/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "03/08/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "04/08/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "04/08/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "07/08/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "08/08/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "08/08/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "08/08/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "09/08/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "10/08/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "10/08/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "11/08/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "11/08/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "14/08/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "15/08/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "16/08/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "17/08/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "18/08/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "21/08/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "22/08/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "23/08/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "24/08/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "24/08/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "25/08/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "28/08/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "29/08/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "04/09/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "05/09/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "06/09/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "06/09/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "07/09/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "08/09/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "08/09/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "11/09/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "11/09/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "12/09/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "13/09/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "14/09/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "14/09/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "15/09/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "18/09/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "18/09/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "19/09/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "19/09/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "20/09/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "20/09/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "21/09/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "21/09/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "22/09/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "22/09/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "25/09/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "25/09/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "26/09/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "26/09/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "27/09/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "27/09/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "28/09/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "29/09/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "29/09/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "02/10/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "02/10/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "02/10/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "03/10/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "04/10/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "04/10/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "05/10/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "05/10/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "06/10/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "09/10/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "09/10/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "11/10/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "11/10/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "12/10/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "12/10/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "13/10/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "13/10/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "13/10/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "16/10/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "16/10/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "17/10/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "17/10/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "17/10/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "18/10/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "18/10/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "19/10/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "20/10/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "20/10/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "23/10/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "24/10/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "25/10/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "25/10/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "26/10/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "27/10/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "27/10/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "27/10/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "30/10/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "30/10/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "31/10/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "31/10/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "1/11/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "3/11/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "3/11/2023",
+    "day": "Пятница",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "6/11/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "7/11/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "7/11/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "8/11/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "8/11/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "9/11/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "9/11/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "10/11/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "13/11/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "14/11/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "15/11/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "16/11/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "17/11/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "20/11/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "20/11/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "21/11/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "21/11/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "22/11/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "22/11/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "23/11/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "23/11/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "24/11/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "27/11/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "27/11/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "29/11/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "30/11/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "30/11/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "30/11/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "1/12/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "4/12/2023",
+    "day": "Понедельник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "4/12/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "5/12/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "5/12/2023",
+    "day": "Вторник",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "6/12/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "6/12/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "6/12/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "7/12/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "7/12/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "8/12/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "8/12/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  },
+  {
+    "date": "11/12/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "11/12/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "12/12/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "12/12/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "13/12/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "13/12/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "14/12/2023",
+    "day": "Четверг",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "14/12/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "15/12/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "15/12/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "18/12/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "18/12/2023",
+    "day": "Понедельник",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "19/12/2023",
+    "day": "Вторник",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "20/12/2023",
+    "day": "Среда",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "20/12/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "21/12/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "21/12/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "lose"
+  },
+  {
+    "date": "22/12/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "lose"
+  },
+  {
+    "date": "27/12/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "27/12/2023",
+    "day": "Среда",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "28/12/2023",
+    "day": "Четверг",
+    "direction": "short",
+    "result": "win"
+  },
+  {
+    "date": "30/12/2023",
+    "day": "Пятница",
+    "direction": "long",
+    "result": "win"
+  }
+]
